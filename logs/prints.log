@@ -1,0 +1,5 @@
+16:18:11.778 [main] DEBUG package2.Demo2 - I am debugging
+16:18:11.786 [main] DEBUG package2.Demo2 - object is present
+16:18:11.786 [main] INFO  package2.Demo2 - test information
+16:18:11.786 [main] ERROR package2.Demo2 - object is not present
+16:18:11.786 [main] FATAL package2.Demo2 - fatal text
